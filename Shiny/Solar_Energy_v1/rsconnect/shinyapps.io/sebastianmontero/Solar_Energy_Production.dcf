@@ -1,0 +1,12 @@
+name: Solar_Energy_Production
+title: Solar_Energy_Production
+username:
+account: sebastianmontero
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 612182
+bundleId: 1772930
+url: https://sebastianmontero.shinyapps.io/Solar_Energy_Production/
+when: 1545216546.20844
+asMultiple: FALSE
+asStatic: FALSE
