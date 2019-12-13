@@ -8,3 +8,5 @@ This is an R-based project that aimed to achieve three things:
 In the subfolders you can check out the markdown files and raw data for this project.
 
 The Shiny dashboard uses simple graphs that allow the user to interact with the data and select dates and aggregation methods. It looks like this:
+
+![Dashboard](https://raw.githubusercontent.com/stealth-insights/solar-power-prediction-kaggle/master/other/dashboard.png)
